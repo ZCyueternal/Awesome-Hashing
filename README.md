@@ -8,10 +8,24 @@ Hashing based Retrieval Methods
 
 ## Hashing (Batch-based) 
 
+### Single-Modal Hashing
+
+### Cross-Modal Hashing
+
+### Multi-Modal Hashing
 
 ## Online Hashing
-- <a name="todo"></a> POLISH: Adaptive Online Cross-Modal Hashing for Class Incremental Data. (`POLISH`) (**The Web Conf (WWW), 2024**) [[paper](https://dl.acm.org/doi/10.1145/3589334.3645716)]
+
+### Online Single-Modal Hashing
 - <a name="todo"></a> Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval. (`SDOH-HC`) (**ACM MM 2023**) [[paper](https://dl.acm.org/doi/10.1145/3581783.3612119)][[code](https://github.com/ZCyueternal/SDOH-HC)]
+
+### Online Cross-Modal Hashing
+- <a name="todo"></a> POLISH: Adaptive Online Cross-Modal Hashing for Class Incremental Data. (`POLISH`) (**The Web Conf (WWW), 2024**) [[paper](https://dl.acm.org/doi/10.1145/3589334.3645716)]
+
+### Online Multi-Modal Hashing
+
+
+
 
 
 ## Federated Hashing

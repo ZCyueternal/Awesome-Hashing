@@ -11,6 +11,27 @@ Hashing based Retrieval Methods
 ### Single-Modal Hashing
 
 ### Cross-Modal Hashing
+- <a name="todo"></a> Multiple Information Embedded Hashing for Large-Scale Cross-Modal Retrieval. (`MIEH`) (**IEEE TCSVT 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10345597)][[code](https://github.com/yxinwang/MIEH)]
+
+
+- <a name="todo"></a> A High-Dimensional Sparse Hashing Framework for Cross-Modal Retrieval. (`HSCH`) (**IEEE TCSVT 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9847257)][[code](https://github.com/yxinwang/HSCH-TCSVT)]
+
+- <a name="todo"></a> High-Dimensional Sparse Cross-Modal Hashing with Fine-Grained Similarity Embedding. (`HSCH`) (**WWW 2021**) [[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449798)][[code](https://github.com/yxinwang/HSCH-TCSVT)]
+
+- <a name="todo"></a> Fast Cross-Modal Hashing with Global and Local Similarity Embedding. (`FCMH`) (**IEEE TCYB 2021**) [[paper](https://ieeexplore.ieee.org/document/9382960)][[code](https://github.com/yxinwang/FCMH-TCyb2021)]
+
+- <a name="todo"></a> BATCH: A Scalable Asymmetric Discrete Cross-Modal Hashing. (`BATCH`) (**IEEE TKDE 2020**) [[paper](https://ieeexplore.ieee.org/abstract/document/9001235)][[code](https://github.com/yxinwang/BATCH-TKDE2020)]
+
+- <a name="todo"></a> Supervised **Hierarchical** Deep Hashing for Cross-Modal Retrieval. (`SHDCH`) (`Deep`) (**ACM MM 2020**) [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413962)][[code](https://github.com/SDU-MIMA/SHDCH)]
+
+- <a name="todo"></a> A Two-Step Cross-Modal Hashing by Exploiting Label Correlations and Preserving Similarity in Both Steps. (`TECH`) (**ACM MM 2019**) [[paper](https://dl.acm.org/doi/abs/10.1145/3343031.3350862)]
+
+- <a name="todo"></a> Sparse Manifold Embedded Hashing for Multimedia Retrieval. (`SMASH`) (**IEEE ICDEW 2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8750936)]
+
+- <a name="todo"></a> SDMCH:Supervised Discrete Manifold-Embedded Cross-Modal Hashing. (`SDMCH`) (**IJCAI 2018**) [[paper](https://www.ijcai.org/Proceedings/2018/0349.pdf)]
+
+
+
 
 ### Multi-Modal Hashing
 
@@ -18,10 +39,17 @@ Hashing based Retrieval Methods
 
 ### Online Single-Modal Hashing
 - <a name="todo"></a> Self-Distillation Dual-Memory Online Hashing with Hash Centers for Streaming Data Retrieval. (`SDOH-HC`) (**ACM MM 2023**) [[paper](https://dl.acm.org/doi/10.1145/3581783.3612119)][[code](https://github.com/ZCyueternal/SDOH-HC)]
-
+- <a name="todo"></a> **Weakly-Supervised** Online Hashing with Refined Pseudo Tags. (`RPT-WOH`) (**CIKM 2023**) [[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557488)][[code](https://github.com/oceanoceanna/WOH-RPT)]
+- <a name="todo"></a> **Weakly-Supervised** Online Hashing. (`WOH`) (**ICME 2021**) [[paper](https://ieeexplore.ieee.org/abstract/document/9428255)][[code](https://github.com/SDU-MIMA/WOH)]
+- 
 ### Online Cross-Modal Hashing
 - <a name="todo"></a> POLISH: Adaptive Online Cross-Modal Hashing for Class Incremental Data. (`POLISH`) (**The Web Conf (WWW), 2024**) [[paper](https://dl.acm.org/doi/10.1145/3589334.3645716)]
+- <a name="todo"></a> Discrete Online Cross-Modal Hashing. (`DOCH`) (**PR 2022**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321004428)][[code](https://github.com/yw-zhan/DOCH)]
+- <a name="todo"></a> Label Embedding Online Hashing for Cross-Modal Retrieval. (`LEMON`) (**ACM MM 2020**) [[paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413971)][[code](https://github.com/yxinwang/LEMON-MM2020)]
 
+- 
+
+- <a name="todo"></a> 
 ### Online Multi-Modal Hashing
 
 
